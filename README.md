@@ -42,7 +42,7 @@ This project helps practice:
 
 ```bash
 git clone <your-repository-url>
-cd tmdb-cli
+cd tmdb-app
 ```
 
 ### Install Rust
@@ -123,7 +123,7 @@ cargo run -- upcoming
 ## Project Structure
 
 ```bash
-tmdb-cli/
+tmdb-app/
 │
 ├── src/
 │   └── main.rs
